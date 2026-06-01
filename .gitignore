@@ -1,0 +1,20 @@
+# File temporanei
+*.tmp
+*.tmp.*
+*.sec.*
+tmp/
+
+# Archivi
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Slides del corso
+*.slides.*
+
+# Lezioni registrate in DAD (nel 2021)
+archit20/
+.mp4
+.zip
